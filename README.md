@@ -8,9 +8,9 @@ Este repositório contem informações sobre o processo de seleção, e será at
 
 🎯 O objetivo deste projeto é criar um app FullStack onde vamos criar um banco de talentos para futuros estagiários.
 
-Para isso precisamos criar um site/plataforma/sistema por onde o interessado se inscrever no banco de talentos possa fazer o seu cadastro e enviar o seu currículo, recebendo no email proximos testes.
+Para isso precisamos criar um site/plataforma/sistema por onde o interessado se inscreva no banco de talentos, e possa fazer o seu cadastro, recebendo no seu email nossos proximos testes.
 
-👉 Ao final do processo de seleção, um projeto será publicado e será divulgado para utilização real.
+👉 Ao final do processo de seleção, o projeto será publicado para utilização real.
 
 É importante pra nós que todos se divirtam 😄 e aprendam 📚 enquanto estejam no processo conosco. 
 
@@ -18,7 +18,7 @@ Para isso precisamos criar um site/plataforma/sistema por onde o interessado se 
 
 O processo acontecerá em 3 ou 4 etapas, com dificuldade crescente, para encontrarmos aqueles estudantes mais animados, interessados e corajosos.
 
-Ao final de cada etapa atualizaremos aqui o repositório com as orientações para realização da próxima etapa!
+Ao final de cada etapa atualizaremos aqui o repositório com as orientações para próxima etapa!
 
 
 # 1ª Etapa - Bootstraping
