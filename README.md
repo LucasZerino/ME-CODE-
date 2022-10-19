@@ -31,7 +31,7 @@ Tarefas da etapa:
 - Criar projeto frontend seguindo as instruções abaixo
 - Criar repositório para seu projeto no github
 - Deixar no readme apenas a informação sobre seu projeto
-- Nos enviar a url do seu repositório por whatsapp: [este link](wa.link/zx8nma) para que possamos avaliar o que foi feito
+- Nos enviar a url do seu repositório por whatsapp: [este link](https://wa.link/zx8nma) para que possamos avaliar o que foi feito
 
 
 ## Frontend
