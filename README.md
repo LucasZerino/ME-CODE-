@@ -40,4 +40,4 @@ Tarefas da etapa:
 - Na rota inicial, exibir com `<H1>` com "Usuários do banco de talentos"
 - Instalar pacote AXIOS no projeto
 - Ao renderizar a interface (apenas uma vez) fazer uma chamada get para [https://backendtalentos.herokuapp.com/listuser](https://backendtalentos.herokuapp.com/listuser) e obter a resposta, que será uma lista de usuários, exibindo seu login, senha, email e tenant
-- Após receber esse array, você deve organizar esses usuários em forma de lista, cada um com suas respectivas informações!
+- Após receber esse array, você deve organizar esses usuários em forma de lista, a lista deve ser ordenada inicialmente pelo Id do usuário, e não deve conter o campo senha!
